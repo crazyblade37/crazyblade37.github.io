@@ -1546,6 +1546,11 @@ Prefab:
       propertyPath: m_Constraints
       value: 80
       objectReference: {fileID: 0}
+    - target: {fileID: 114799558075011274, guid: a8508ff06b149e046b0463a39c484203,
+        type: 2}
+      propertyPath: crosshairImage
+      value: 
+      objectReference: {fileID: 2800000, guid: c3af927364f57456c95809545f0c0f82, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a8508ff06b149e046b0463a39c484203, type: 2}
   m_IsPrefabParent: 0
